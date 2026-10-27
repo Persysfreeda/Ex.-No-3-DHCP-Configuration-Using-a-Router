@@ -86,8 +86,7 @@ ________________________________________
 
 
 
-<img width="1918" height="1198" alt="Screenshot 2026-10-27 160044" src="https://github.com/user-attachments/assets/0a6df575-02bd-44ab-b693-f65f09119752" />
-
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/2783b971-490f-4645-91d1-b5a858928d5a" />
 
 
 ________________________________________
